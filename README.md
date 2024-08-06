@@ -1,4 +1,5 @@
 # BYU Intro to Programming - CSEPC 110
+# COMPLETO/COMPLETED
 
 ## PT-BR:
 Esses exercícios foram realizados semanalmente durante o último termo do programa BYU Pathway Worldwide e serviram como uma intrudução a programação em Python. Esses exercícios NÃO podem ser copiados e eu, pessoalmente, não autorizo a cópia deles para qualquer fim. Caso deseje mais informações sobre os códigos ou qualquer tipo de contato, pode falar comigo através das redes socias.
